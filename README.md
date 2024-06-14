@@ -1,4 +1,2 @@
-Web Developer && Web PenTester
-
-<script src="https://tryhackme.com/badge/276870">
-</script>
+jr, PenTester | freelanser | web Developer<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/gabrielxx0.png" alt="TryHackMe">
